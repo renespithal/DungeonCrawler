@@ -1,0 +1,6 @@
+20,5,
+w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,
+w,p,f,f,w,f,f,f,c,w,f,f,m,f,w,f,f,f,f,w,
+w,f,f,f,dc,f,m,f,m,dc,f,f,f,f,dc,f,m,sd,c,w,
+w,f,f,f,w,f,f,f,f,w,f,f,m,f,w,f,f,f,f,w,
+w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w

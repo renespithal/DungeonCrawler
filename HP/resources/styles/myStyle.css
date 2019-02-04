@@ -1,0 +1,28 @@
+
+.text-area {
+    -fx-background-color: transparent;
+}
+
+.text-area .scroll-pane {
+    -fx-background-color: transparent;
+}
+
+.text-area .scroll-pane .viewport{
+    -fx-background-color: transparent;
+}
+
+
+.text-area .scroll-pane .content{
+    -fx-background-color: transparent;
+}
+
+.characterButton {
+
+width: 0;
+height: 0;
+border: 0 solid transparent;
+border-bottom-width: 91px;
+border-top-width: 91px;
+border-left: 91px solid black;
+
+}

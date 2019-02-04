@@ -1,0 +1,7 @@
+8,6,
+w,w,w,w,w,w,w,w,
+w,p,f,f,f,f,f,w,
+w,w,dc,w,sd,p,c,w,
+w,f,f,w,w,dc,w,w,
+w,m,m,m,m,m,m,w,
+w,w,w,w,w,w,w,w

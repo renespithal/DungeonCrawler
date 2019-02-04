@@ -1,0 +1,141 @@
+.button {
+	-fx-font-size: 20px;
+	-fx-color: white;
+	-fx-background-color: #D0D0D0; 
+	-fx-background-repeat: no-repeat;
+}
+
+.spbutton{
+
+}
+
+#scene {
+	-fx-background-image: url(images/background-logo.png);
+	-fx-background-size: 1280px, 720px;
+	-fx-background-color:black;
+	-fx-background-repeat: no-repeat;
+	-fx-background-position: center;
+}
+
+#scene-start {
+	-fx-background-image: url(images/background-start.png);
+	-fx-background-size: 1280px, 720px;
+	-fx-background-color:black;
+	-fx-background-repeat: no-repeat;
+	-fx-background-position: center;
+}
+
+.multiplayer {
+	-fx-background-color: transparent;
+	-fx-background-image: url(images/multi.png);
+	-fx-alignment: center-left;
+	-fx-padding: 0 0 0 70;
+	-fx-background-position: left center;
+}
+
+.singleplayer {
+	-fx-background-color: transparent;
+	-fx-background-image: url(images/single.png);
+	-fx-alignment: center-left;
+	-fx-padding: 0 0 0 70;
+	-fx-background-position: left center;
+}
+
+.info{
+	-fx-background-color: transparent;
+	-fx-background-image: url(images/info.png);
+	-fx-alignment: center-left;
+	-fx-padding: 0 0 0 70;
+	-fx-background-position: left center;
+
+}
+
+.serverStarted {
+	-fx-background-color: transparent;
+	-fx-background-image: url(images/started.png);
+	-fx-padding: 0 0 0 70;
+	-fx-alignment: center-left;
+	-fx-padding: 0 0 0 70;
+	-fx-background-position: left center;
+}
+
+.serverStopped {
+	-fx-background-color: transparent;
+	-fx-background-image: url(images/stopped.png);
+	-fx-padding: 0 0 0 70;
+	-fx-alignment: center-left;
+	-fx-padding: 0 0 0 70;
+	-fx-background-position: left center;
+}
+
+.server {
+	-fx-background-color: transparent;
+	-fx-background-image: url(images/server2.png);
+	-fx-alignment: center-left;
+	-fx-padding: 0 0 0 70;
+	-fx-background-position: left center;
+}
+
+.exit {
+	-fx-background-color: transparent;
+	-fx-background-image: url(images/exit.png);
+	-fx-alignment: center-left;
+	-fx-padding: 0 0 0 70;
+	-fx-background-position: left center;
+}
+
+.rightArrow {
+	-fx-background-image: url(images/rightArrow.png);
+	-fx-padding: 0 0 0 0;
+	-fx-background-color: transparent;
+	-fx-background-position: center;
+}
+
+.leftArrow {
+	-fx-background-image: url(images/leftArrow.png);
+	-fx-padding: 0 0 0 0;
+	-fx-background-color: transparent;
+	-fx-background-position: center;
+}
+
+.table-view {
+	-fx-base: #FFFFFF ;
+    -fx-control-inner-background: #FFFFFF ;
+    -fx-background-color: #FFFFFF ;
+    -fx-opacity: 0.8;
+    -fx-table-cell-border-color: transparent;
+    -fx-table-header-border-color: transparent;
+    -fx-padding: 5;
+}
+
+.table-view .column-header-background {
+    -fx-background-color: transparent;
+}
+
+.table-view .column-header, .table-view .filler {
+    -fx-size: 35;
+    -fx-border-width: 0 0 1 0;
+    -fx-background-color: transparent;
+    -fx-border-color: 
+        transparent
+        transparent
+        derive(black, 80%) 
+        transparent;
+    -fx-border-insets: 0 10 1 0;
+}
+
+
+.table-view .column-header .label {
+    -fx-font-size: 10pt;
+    -fx-text-fill: black;
+    -fx-alignment: center-left;
+    -fx-opacity: 1;
+}
+
+.table-view:focused .table-row-cell:filled:focused:selected {
+    -fx-background-color: -fx-focus-color;
+}
+
+* {
+    -fx-font-family: sans-serif;
+}

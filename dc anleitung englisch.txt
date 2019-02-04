@@ -1,0 +1,15 @@
+"Controls \n" + 
+"if you don't want to use your mouse, press 1 for \"move\",\n" + 
+"press 2 for \"use\" and 3 for \"attack\". To submit your chosen\n"+ 
+"turn, press \"Enter\". \n \n "+ " "
+
+"You can start a server by pressing "Start Server" and \"start\", " + 
+"you can stop it by pressing \"stop\". If you want to join your own" + 
+"Server, just switch over by pressing \"Client\" "+ 
+
+"To join a Server press \"Multiplayer\" followed by selecting the server" + 
+"of your favour, afterwards press \"connect\" Once connected and having logged" +
+ in, you can either start a game or join one. Start your game as soon as every " +
+player you want to play with has joined" 
+ 
+ 
